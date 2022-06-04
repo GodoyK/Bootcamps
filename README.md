@@ -15,4 +15,3 @@
 * Mongo - banco de dados, 
 * React, 
 * .NET
->>>>>>> 5789129b66607aad11fe4731d5ba88d88f423a69
