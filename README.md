@@ -3,7 +3,6 @@
 
 ## :computer: Geração Tech Unimed - Fullstack
 
-<<<<<<< HEAD
 :woman_technologist: **Tecnologias Abordadas:**
 =======
 :woman_technologist: **Tecnologias Abordadas:** 
