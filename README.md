@@ -5,11 +5,11 @@
 
 :woman_technologist: **Tecnologias Abordadas:** 
 
-* Html, 
-* Css, 
+* HTML, 
+* CSS, 
 * Javascript, 
 * Git e GitHub, 
-* Mongo banco de dados, 
+* Mongo - banco de dados, 
 * React, 
 * .NET
 
