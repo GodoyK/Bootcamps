@@ -1,5 +1,5 @@
 # :book: Bootcamps
-:arrow_forward: *Códigos gerados através dos bootcamps efetuados.* 
+:arrow_forward: *Códigos gerados através dos bootcamps que participei.* 
 
 ## :computer: Geração Tech Unimed - Fullstack
 
