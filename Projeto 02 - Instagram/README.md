@@ -1,14 +1,12 @@
-# :book: Bootcamps
+# 👩‍💻: Instagram
 :arrow_forward: *Códigos gerados através dos bootcamps que participei.* 
 
-## :computer: Geração Tech Unimed - Fullstack
+## Criação da interface do Instagram
 
 :woman_technologist: **Tecnologias Abordadas:**
 
 * HTML, 
 * CSS, 
-* Javascript, 
-* Git e GitHub, 
-* Mongo - banco de dados, 
-* React, 
-* .NET
+* Git e GitHub
+
+### Projeto 02 do bootcamp Geração Tech Unimed - Fullstack
