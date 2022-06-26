@@ -1,4 +1,4 @@
-# 👩‍💻: Instagram
+# 👩‍💻 Instagram
 :arrow_forward: *Códigos gerados através dos bootcamps que participei.* 
 
 ## Criação da interface do Instagram
