@@ -10,5 +10,6 @@
 * Javascript, 
 * Git e GitHub, 
 * Mongo - banco de dados, 
+* Angular,
 * React, 
 * .NET
